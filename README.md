@@ -12,6 +12,7 @@ This project aims to identify potential inhibitors of the BCR-ABL tyrosine kinas
 **Tools Used**
 - AutoDock Vina
 - Discovery Studio Visualizer
+- OpenBabel
 - SwissADME
 
 **Results**
